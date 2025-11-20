@@ -14,6 +14,7 @@ Every commercial flight—from an **Airbus A320** to a **Boeing 787**—relies o
 To maintain **clean, stable, and distortion-free signals**, aviation communication and radar equipment depend on **–3 dB attenuators**. Although small and passive, these components prevent overload in sensitive receivers and stabilize high-frequency operations critical to aviation safety.
 
 This document explains the engineering principles of –3 dB attenuation and demonstrates how it supports global air navigation systems.
+
 <img width="555" height="304" alt="image" src="https://github.com/user-attachments/assets/ecbb4063-8c2d-4fa4-9a89-b10b893a92e4" />
 
 ---
